@@ -1,0 +1,9 @@
+com/mockskills/repository/CollabZoneRepository.class
+com/mockskills/service/CollabZoneService.class
+com/mockskills/controller/CollabZoneController.class
+com/mockskills/config/MailConfiguration.class
+com/mockskills/model/CollabZone.class
+com/mockskills/MockSkillsBackendApplication.class
+com/mockskills/model/SkillsConverter$1.class
+com/mockskills/model/CollabZone$Department.class
+com/mockskills/model/SkillsConverter.class
